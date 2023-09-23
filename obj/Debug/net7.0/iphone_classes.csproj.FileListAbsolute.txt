@@ -1,0 +1,15 @@
+C:\Users\cabra\OneDrive\Documentos\Dio-desafio\iphone_classes\bin\Debug\net7.0\iphone_classes.exe
+C:\Users\cabra\OneDrive\Documentos\Dio-desafio\iphone_classes\bin\Debug\net7.0\iphone_classes.deps.json
+C:\Users\cabra\OneDrive\Documentos\Dio-desafio\iphone_classes\bin\Debug\net7.0\iphone_classes.runtimeconfig.json
+C:\Users\cabra\OneDrive\Documentos\Dio-desafio\iphone_classes\bin\Debug\net7.0\iphone_classes.dll
+C:\Users\cabra\OneDrive\Documentos\Dio-desafio\iphone_classes\bin\Debug\net7.0\iphone_classes.pdb
+C:\Users\cabra\OneDrive\Documentos\Dio-desafio\iphone_classes\obj\Debug\net7.0\iphone_classes.csproj.AssemblyReference.cache
+C:\Users\cabra\OneDrive\Documentos\Dio-desafio\iphone_classes\obj\Debug\net7.0\iphone_classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cabra\OneDrive\Documentos\Dio-desafio\iphone_classes\obj\Debug\net7.0\iphone_classes.AssemblyInfoInputs.cache
+C:\Users\cabra\OneDrive\Documentos\Dio-desafio\iphone_classes\obj\Debug\net7.0\iphone_classes.AssemblyInfo.cs
+C:\Users\cabra\OneDrive\Documentos\Dio-desafio\iphone_classes\obj\Debug\net7.0\iphone_classes.csproj.CoreCompileInputs.cache
+C:\Users\cabra\OneDrive\Documentos\Dio-desafio\iphone_classes\obj\Debug\net7.0\iphone_classes.dll
+C:\Users\cabra\OneDrive\Documentos\Dio-desafio\iphone_classes\obj\Debug\net7.0\refint\iphone_classes.dll
+C:\Users\cabra\OneDrive\Documentos\Dio-desafio\iphone_classes\obj\Debug\net7.0\iphone_classes.pdb
+C:\Users\cabra\OneDrive\Documentos\Dio-desafio\iphone_classes\obj\Debug\net7.0\iphone_classes.genruntimeconfig.cache
+C:\Users\cabra\OneDrive\Documentos\Dio-desafio\iphone_classes\obj\Debug\net7.0\ref\iphone_classes.dll
